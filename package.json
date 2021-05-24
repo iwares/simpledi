@@ -1,0 +1,33 @@
+{
+  "name": "smartdi",
+  "version": "0.0.1",
+  "description": "A simple dependency injector based on decorators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DI",
+    "dependency",
+    "injector",
+    "decorator"
+  ],
+  "author": "Eric.Tsai",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^15.0.1",
+    "@types/require-all": "^3.0.1"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "require-all": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwares/simpledi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iwares/simpledi/issues"
+  },
+  "homepage": "https://github.com/iwares/simpledi#readme"
+}
